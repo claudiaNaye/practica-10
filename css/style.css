@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+article
+{
+    background-color: rgb(199, 247, 247);
+}
+
+nav
+{
+    background-color: rgb(56, 55, 55);
+}
+footer
+{
+    background-color: lightsteelblue;
+}
+footer 
+{
+    background-image: url(../img/footer.jpg);
+    background-size: 100%;
+    color: chartreuse;
+}
